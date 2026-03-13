@@ -1,7 +1,8 @@
 # 👁️ Project TomatoFriedEgg: Explainable Glaucoma Detection
 **Team Name: TomatoFriedEgg**
 
-**Developed for the IDSC 2026 Data Science Hackathon** \n*Theme: Mathematics for Hope in Healthcare*
+**Developed for the IDSC 2026 Data Science Hackathon** 
+*Theme: Mathematics for Hope in Healthcare*
 
 ## Overview
 Project TomatoFriedEgg is an AI-driven screening tool designed to detect **Glaucomatous Optic Neuropathy (GON)** from retinal fundus images. Using a Transfer Learning approach with a ResNet-34 architecture, the model achieves a high diagnostic accuracy of **95.3%**. 
