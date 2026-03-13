@@ -1,4 +1,5 @@
 # 👁️ Project TomatoFriedEgg: Explainable Glaucoma Detection
+**Team Name: TomatoFriedEgg**
 **Developed for the IDSC 2026 Data Science Hackathon** *Theme: Mathematics for Hope in Healthcare*
 
 ## Overview
