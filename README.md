@@ -8,7 +8,7 @@ To align with the "Hope in Healthcare" theme, we integrated **Grad-CAM Interpret
 
 ## 📥 Model Download
 Due to GitHub's file size restrictions, the trained model weights are hosted externally.
-* **[Download Trained Model (.pkl) Here]((https://drive.google.com/drive/folders/1H0_AJZ5ybZIpcK4ViaSC4HsJ-w-i9J0t?usp=sharing))**
+* **[Download Trained Model (.pkl) Here](https://drive.google.com/drive/folders/1H0_AJZ5ybZIpcK4ViaSC4HsJ-w-i9J0t?usp=sharing)**
 
 ## 📊 Technical Specifications
 - **Architecture:** ResNet-34 (Pre-trained on ImageNet)
