@@ -32,5 +32,5 @@ In healthcare, a "Black Box" AI is not enough. Our model uses Grad-CAM to highli
 3. Run the cells sequentially to reproduce the results and Grad-CAM heatmaps.
 
 ---
-**Team:** TomatoFriedEgg (Solo)  
+**Team:** TomatoFriedEgg (Yeong Chee Yaw & Neo Yong Xin)  
 **Competition:** IDSC 2026 (UPM x UNAIR)
